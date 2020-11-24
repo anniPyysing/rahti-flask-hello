@@ -10,7 +10,6 @@ import flask
 # In a proper Flask application all these templates should be in indepent files
 STYLE = """
 body {
-  // CHANGE background color from 'silver' to 'beige'
   background-color: purple;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 30px;
