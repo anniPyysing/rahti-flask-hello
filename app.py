@@ -13,7 +13,7 @@ body {
   # CHANGE background color from 'silver' to 'beige'
   background-color: beige;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
-  font-size: 14px;
+  font-size: 30px;
   padding: 10%;
 }
 img {
